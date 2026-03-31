@@ -12,7 +12,8 @@
 
 *MENTOR* : NEELA SANTHOSH
 
-## File Management Tool is a console-based C++ application designed to demonstrate fundamental file-handling operations such as creating, reading, writing, and appending data to text files. This project provides a practical implementation of file input/output (I/O) concepts using standard C++ libraries. It allows users to interact with files through a simple menu-driven interface, making it useful for beginners to understand how persistent data storage works in real-world applications. The program enables users to create new text files, write data into them, read existing file contents, and append additional data without overwriting previous information. It also incorporates basic error handling to manage cases such as missing files or access issues. Through this tool, users gain insight into how applications manage data beyond runtime memory by utilizing file systems.
+## File Management Tool is a console-based C++ application designed to demonstrate fundamental file-handling operations such as creating, reading, writing, and appending data to text files. 
+This project provides a practical implementation of file input/output (I/O) concepts using standard C++ libraries. It allows users to interact with files through a simple menu-driven interface, making it useful for beginners to understand how persistent data storage works in real-world applications. The program enables users to create new text files, write data into them, read existing file contents, and append additional data without overwriting previous information. It also incorporates basic error handling to manage cases such as missing files or access issues. Through this tool, users gain insight into how applications manage data beyond runtime memory by utilizing file systems.
 
 ## Objectives
 To understand file handling in C++ using streams
@@ -24,3 +25,6 @@ To handle errors such as file not found or permission issues
 Programming Language: C++
 Compiler: MinGW
 IDE/Editor: Visual Studio Code
+
+## Output
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f6d0d4c6-73ed-441e-97d1-e9c850987d2e" />
